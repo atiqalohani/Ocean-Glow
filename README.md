@@ -1,4 +1,4 @@
-ArchiScape Designer
+Ocean Glow
 🚀 How to Run
 Download or clone the repository
 Open the project folder
